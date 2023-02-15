@@ -1,0 +1,1 @@
+mi script de lua solo usa el valor 1 xddd

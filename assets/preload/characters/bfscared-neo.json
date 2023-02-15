@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				-6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				-13
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				34
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-13
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				11
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-37,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-56,
+				32
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-51,
+				15
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neo/bfscared-neo",
+	"position": [
+		-48,
+		365
+	],
+	"healthicon": "bf-neo",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		255,
+		155
+	],
+	"camera_position": [
+		-80,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

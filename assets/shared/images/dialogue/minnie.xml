@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minnie.png"><SubTexture name="minnie angry0000" x="0" y="0" width="399" height="521" frameX="0" frameY="0" frameWidth="399" frameHeight="521" />
+<SubTexture name="minnie sad0000" x="0" y="521" width="396" height="594" frameX="0" frameY="0" frameWidth="396" frameHeight="594" />
+</TextureAtlas>

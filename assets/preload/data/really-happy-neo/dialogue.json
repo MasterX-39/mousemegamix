@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "Hurr...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "happymouse2_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "!!Stop... him...!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "happymouse2_neo"
+		},
+		{
+			"expression": "angy",
+			"text": "Who is him?",
+			"boxState": "normal",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Happy",
+			"text": "!!HAA HAA HAA!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bipolarmouse_neo"
+		},
+		{
+			"expression": "Talk2",
+			"text": "Nice to finally meet you in person Boyfriend.",
+			"boxState": "normal",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "W-Who are you?",
+			"boxState": "angry",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "And how do you know my name?",
+			"boxState": "angry",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk",
+			"text": "I know all about you Boyfriend.",
+			"boxState": "normal",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk2",
+			"text": "And i know all about you too Girlfriend.",
+			"boxState": "normal",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Sad",
+			"text": "!!Ah!!",
+			"boxState": "angry",
+			"portrait": "gf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "Hey leave her out of this.",
+			"boxState": "angry",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "This is between you and me.",
+			"boxState": "angry",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Happy",
+			"text": "!!HEE!! If you say so.",
+			"boxState": "normal",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "Let's make a deal.",
+			"boxState": "normal",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "If i win you get to do whatever you want with me.",
+			"boxState": "normal",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk2",
+			"text": "!!HEE!! And if you win.",
+			"boxState": "normal",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "Then you need to leave me, my Girlfriend and Mortimer alone.",
+			"boxState": "normal",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk",
+			"text": "!!HEE!! I like the sound of that.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bipolarmouse_neo"
+		},
+		{
+			"expression": "Talk2",
+			"text": "Let the song begin.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bipolarmouse_neo"
+		}
+	]
+}

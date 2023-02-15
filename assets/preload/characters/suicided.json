@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead1",
+			"indices": [],
+			"name": "dead1"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead2",
+			"indices": [],
+			"name": "dead2"
+		},
+		{
+			"offsets": [
+				0,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead3",
+			"indices": [],
+			"name": "dead3"
+		},
+		{
+			"offsets": [
+				0,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead4",
+			"indices": [],
+			"name": "dead4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vsmouse/suicided",
+	"position": [
+		-480,
+		0
+	],
+	"healthicon": "suicide4",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-115,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "DeadMouseUP"
+		},
+		{
+			"offsets": [
+				250,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "DeadMouseLEFT"
+		},
+		{
+			"offsets": [
+				-40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "DeadMouseDOWN"
+		},
+		{
+			"offsets": [
+				10,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "DeadMouseRIGHT"
+		},
+		{
+			"offsets": [
+				-140,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "DeadMouseIDLE"
+		},
+		{
+			"offsets": [
+				290,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DeadMouseLEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DeadMouseDOWN"
+		},
+		{
+			"offsets": [
+				-70,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DeadMouseUP"
+		},
+		{
+			"offsets": [
+				40,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DeadMouseRIGHT"
+		},
+		{
+			"offsets": [
+				-140,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DeadMouseIDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thefinal/DeadMouse",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "deadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-190,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

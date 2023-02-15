@@ -1,0 +1,57 @@
+{
+	"storyName": "A Stroll Down The Streets",
+	"hideFreeplay": false,
+	"weekBackground": "neo",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Unhappy Neo",
+			"sadmouse-neo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Happy Neo",
+			"happymouse-neo",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Really Happy Neo",
+			"bipolarmouse-neo",
+			[
+				155,
+				155,
+				155
+			]
+		],
+		[
+			"Smile Neo",
+			"sadmouse-neo",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Neo"
+}

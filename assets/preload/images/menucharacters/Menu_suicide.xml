@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_suicide.png"><SubTexture name="idle0000" x="0" y="0" width="539" height="708" frameX="-488" frameY="-15" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

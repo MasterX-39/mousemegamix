@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeadMouselol.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeadMouseDOWN0000" x="0" y="0" width="583" height="864" frameX="-38" frameY="-25" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0001" x="583" y="0" width="637" height="885" frameX="-7" frameY="-4" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0002" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0003" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0004" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0005" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0006" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0007" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0008" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0009" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0010" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0011" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseDOWN0012" x="1220" y="0" width="633" height="889" frameX="0" frameY="0" frameWidth="644" frameHeight="889"/>
+	<SubTexture name="DeadMouseIDLE0000" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0001" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0002" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0003" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0004" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0005" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0006" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0007" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0008" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0009" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0010" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0011" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseIDLE0012" x="1853" y="0" width="508" height="963"/>
+	<SubTexture name="DeadMouseLEFT0000" x="2361" y="0" width="682" height="924" frameX="-22" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0001" x="3043" y="0" width="686" height="924" frameX="-13" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0002" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0003" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0004" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0005" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0006" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0007" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0008" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0009" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0010" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0011" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseLEFT0012" x="0" y="963" width="697" height="924" frameX="0" frameY="0" frameWidth="704" frameHeight="924"/>
+	<SubTexture name="DeadMouseRIGHT0000" x="697" y="963" width="842" height="1019" frameX="-2" frameY="0" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0001" x="1539" y="963" width="841" height="1025" frameX="-2" frameY="0" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0002" x="2380" y="963" width="845" height="1028" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0003" x="3225" y="963" width="845" height="1036" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0004" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0005" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0006" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0007" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0008" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0009" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0010" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0011" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseRIGHT0012" x="0" y="1999" width="845" height="1018" frameX="0" frameY="-1" frameWidth="845" frameHeight="1037"/>
+	<SubTexture name="DeadMouseUP0000" x="845" y="1999" width="519" height="1034" frameX="-24" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0001" x="1364" y="1999" width="548" height="1034"/>
+	<SubTexture name="DeadMouseUP0002" x="1912" y="1999" width="520" height="1034" frameX="-23" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0003" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0004" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0005" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0006" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0007" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0008" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0009" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0010" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0011" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+	<SubTexture name="DeadMouseUP0012" x="2432" y="1999" width="522" height="1034" frameX="-21" frameY="0" frameWidth="548" frameHeight="1034"/>
+</TextureAtlas>

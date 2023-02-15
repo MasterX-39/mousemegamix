@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-56,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Os_Left instance"
+		},
+		{
+			"offsets": [
+				-200,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Os_Down instance"
+		},
+		{
+			"offsets": [
+				-52,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Os_Up instance"
+		},
+		{
+			"offsets": [
+				-211,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Os_Right instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-45
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Os_danceLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-46
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Os_danceRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				6
+			],
+			"anim": "lucky",
+			"fps": 24,
+			"name": "Os_Lucky instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Os_Left_Alt"
+		},
+		{
+			"offsets": [
+				-100,
+				-265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Os_Down_Alt"
+		},
+		{
+			"offsets": [
+				48,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Os_Up_Alt"
+		},
+		{
+			"offsets": [
+				-121,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Os_Right_Alt"
+		},
+		{
+			"offsets": [
+				8,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [],
+			"name": "Os_danceLeft_Alt"
+		},
+		{
+			"offsets": [
+				1,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [],
+			"name": "Os_danceRight_Alt"
+		},
+		{
+			"offsets": [
+				-81,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oldtimey",
+			"indices": [],
+			"name": "Os_OldTimey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruption/Oswald_Happy_Assetsv2",
+	"position": [
+		-70,
+		200
+	],
+	"healthicon": "oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		-60,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

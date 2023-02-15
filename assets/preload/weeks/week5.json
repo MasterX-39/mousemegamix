@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Corrupted UnHappy",
+			"happymouse-cor",
+			[
+				175,
+				155,
+				155
+			]
+		],
+		[
+			"Corrupted Happy",
+			"sadmouse-cor",
+			[
+				166,
+				113,
+				235
+			]
+		],
+		[
+			"a fate worse than death",
+			"corruptedmickey",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"Corrupted Smile",
+			"altsadmouse-cor",
+			[
+				146,
+				0,
+				20
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "corrupt",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "A FATE WORSE THAN DEATH",
+	"weekName": "week5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week4",
+	"startUnlocked": true
+}

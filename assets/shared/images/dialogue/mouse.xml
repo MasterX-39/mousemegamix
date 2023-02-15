@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mouse.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crying0000" x="30" y="30" width="738" height="852"/>
+	<SubTexture name="happy0000" x="778" y="30" width="738" height="852"/>
+	<SubTexture name="sad0000" x="30" y="892" width="738" height="852"/>
+	<SubTexture name="scared0000" x="778" y="892" width="738" height="852"/>
+	<SubTexture name="talking10000" x="30" y="1754" width="738" height="852"/>
+	<SubTexture name="talking20000" x="778" y="1754" width="738" height="852"/>
+</TextureAtlas>

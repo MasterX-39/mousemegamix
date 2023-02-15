@@ -1,0 +1,48 @@
+{
+	"storyName": "The Second Sights of Hell",
+	"hideFreeplay": false,
+	"weekBackground": "final",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"really-unhappy",
+			"sadmousefinal",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"tristophobia",
+			"sadmousealt",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"suicide",
+			"suicidemouse",
+			[
+				65,
+				65,
+				65
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Not Really UnHappy Week"
+}

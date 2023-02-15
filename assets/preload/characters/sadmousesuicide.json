@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "SuicideMickeyUP"
+		},
+		{
+			"offsets": [
+				140,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "SuicideMickeyLEFT"
+		},
+		{
+			"offsets": [
+				87,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "SuicideMickeyDOWN"
+		},
+		{
+			"offsets": [
+				84,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "SuicideMickeyRIGHT"
+		},
+		{
+			"offsets": [
+				167,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "SuicideMickeyIDLE"
+		},
+		{
+			"offsets": [
+				141,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SuicideMickeyLEFT"
+		},
+		{
+			"offsets": [
+				80,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SuicideMickeyDOWN"
+		},
+		{
+			"offsets": [
+				100,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SuicideMickeyUP"
+		},
+		{
+			"offsets": [
+				83,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SuicideMickeyRIGHT"
+		},
+		{
+			"offsets": [
+				168,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SuicideMickeyIDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thefinal/SADMOUSESUICIDE",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "suicidemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

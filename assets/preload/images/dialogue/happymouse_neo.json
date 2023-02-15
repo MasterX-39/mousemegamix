@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		-90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sadmouse Idle0000",
+			"idle_name": "Sadmouse Idle0000"
+		},
+		{
+			"anim": "Talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sadmouse Left0007",
+			"idle_name": "Sadmouse Left0007"
+		}
+	],
+	"image": "happymouse_neo"
+}

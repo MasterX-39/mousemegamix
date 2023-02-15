@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png"><SubTexture name="bf talk0000" x="0" y="0" width="451" height="373" frameX="0" frameY="0" frameWidth="451" frameHeight="373" />
+<SubTexture name="bf nervous0000" x="0" y="373" width="474" height="352" frameX="0" frameY="0" frameWidth="474" frameHeight="352" />
+</TextureAtlas>

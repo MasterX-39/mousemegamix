@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Sadmouse Up"
+		},
+		{
+			"offsets": [
+				-50,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Sadmouse Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Sadmouse Down"
+		},
+		{
+			"offsets": [
+				-15,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Sadmouse Right"
+		},
+		{
+			"offsets": [
+				-50,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Sadmouse Idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sadmouse Left"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sadmouse Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sadmouse Up"
+		},
+		{
+			"offsets": [
+				-15,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sadmouse Right"
+		},
+		{
+			"offsets": [
+				-50,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sadmouse Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruption/altsadmouse_assets-cor",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "altsadmouse-cor",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		37,
+		127
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Cognitive Crisis",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Double Down",
+			"cuphead",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"weekName": "Custom Week"
+}

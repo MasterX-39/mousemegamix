@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				60,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE ANGRY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT ANGRY",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/craziness/minnie_emputada",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "minnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

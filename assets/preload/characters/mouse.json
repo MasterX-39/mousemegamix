@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle-normal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				17
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up-normal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-29
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down-normal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left-normal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right-normal",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-11
+			],
+			"loop": false,
+			"anim": "enough-transition",
+			"fps": 24,
+			"name": "enough",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				-14
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right-ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-157
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down-ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				-177
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left-ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				37
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up-ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-49,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cry",
+			"loop": false,
+			"name": "crying"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "idle-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soft/Suicide Mouse Soft",
+	"position": [
+		-150,
+		110
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

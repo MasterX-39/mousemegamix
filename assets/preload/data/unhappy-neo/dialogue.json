@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "Huh a wonderful day to take a stroll down the streets right girlfriend.",
+			"boxState": "normal",
+			"portrait": "bf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Blush",
+			"text": "Yeah it so peaceful and calming out here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "It so nice to take a break after what has been happening to us lately.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_neo"
+		},
+		{
+			"expression": "Sweat",
+			"text": "Yeah? your right for some reason weird things have been happening recently.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Grimace",
+			"text": "Like that weird monster that attacked us,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Grimace",
+			"text": "A black haired man with a gun and he's what i'm assuming boyfriend with a bomb's for a head.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Hello there.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Angy",
+			"text": "!!Wha!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "Oh sorry for scaring you there.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Grimace",
+			"text": "Wait a minute...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Angy",
+			"text": "Do i know you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "Oh allow me to introduce myself.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "My name is Mortimer Neon Mouse it's is a pleasure to meet you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "What is your name.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Oh my name is Boyfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "And im Girlfriend nice to meet you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_neo"
+		},
+		{
+			"expression": "Sweat",
+			"text": "So.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Do you want to rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "Umm.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Sure why not.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Yay let get this battle started.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_neo"
+		}
+	]
+}

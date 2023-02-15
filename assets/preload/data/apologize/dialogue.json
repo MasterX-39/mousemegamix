@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Oh, hello",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf-old",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm searching for my husband. His name is Mickey Mouse",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bap skdee bop bep",
+			"boxState": "normal",
+			"portrait": "bf-old",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You saw him? That are some great news! Now tell me, where is he?",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bop",
+			"boxState": "normal",
+			"portrait": "bf-old",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What? Are you serious?",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"portrait": "bf-old",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "So, you want a rap battle. Let's make a deal",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "If I win, you tell me where is Mickey. Sounds good for you?",
+			"boxState": "normal",
+			"portrait": "minnie",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"portrait": "bf-old",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "Talk",
+			"text": "!!Hurr!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bipolarmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "You did it.",
+			"boxState": "normal",
+			"portrait": "gf_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk2",
+			"text": "!!HOW DID I LOSE TO A PATHETIC MORTAL LIKE YOU!!",
+			"boxState": "angry",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Angry",
+			"text": "You know the deal release Mortimer immediately.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Talk2",
+			"text": "!!You may have won!!",
+			"boxState": "angry",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk2",
+			"text": "!!But i will see you soon Boyfriend!!",
+			"boxState": "angry",
+			"portrait": "bipolarmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Talk",
+			"text": "Wha-what happend?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Angy",
+			"text": "Hee long story short i saved you from something's control.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Well thank's for your help.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "No problem Mortimer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Talk",
+			"text": "Well i have somewere i need to go.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Do you want to sing one last song before i go.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadmouse_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Sure thing Mortimer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		}
+	]
+}

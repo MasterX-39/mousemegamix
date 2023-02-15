@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				20
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Os_danceLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				20
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Os_danceRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				23
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Os_Death ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				121
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Os_Death_Confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				89
+			],
+			"anim": "uh hello",
+			"fps": 24,
+			"name": "Os_UhHello",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				78
+			],
+			"anim": "wtf",
+			"fps": 24,
+			"name": "Os_WTF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				36
+			],
+			"anim": "pipecleaner",
+			"fps": 24,
+			"name": "Os_Pipecleaner",
+			"indices": []
+		},
+		{
+			"offsets": [
+				68,
+				-153
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Os_Death_Loop"
+		},
+		{
+			"offsets": [
+				39,
+				-17
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Os_Left instance"
+		},
+		{
+			"offsets": [
+				-71,
+				-201
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Os_Down instance"
+		},
+		{
+			"offsets": [
+				-222,
+				73
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Os_Up instance"
+		},
+		{
+			"offsets": [
+				-170,
+				34
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Os_Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruption/Oswald_Playerv2",
+	"position": [
+		-70,
+		200
+	],
+	"healthicon": "oswald",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		160,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "Searching For Mickey",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ci",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Apologize",
+			"minnie",
+			[
+				73,
+				73,
+				73
+			]
+		],
+		[
+			"Bothered",
+			"minnie",
+			[
+				73,
+				73,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "sm_minnie"
+}

@@ -1,0 +1,7 @@
+stage
+street1
+street2
+street3
+streetalt
+suicidebackground
+originalbackground

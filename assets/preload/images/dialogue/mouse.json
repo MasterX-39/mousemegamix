@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-40,
+		-190
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"loop_name": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "scared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talking1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talking1",
+			"anim": "talking1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talking2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talking2",
+			"anim": "talking2",
+			"loop_offsets": [
+				-10,
+				0
+			]
+		},
+		{
+			"loop_name": "crying",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "crying",
+			"anim": "crying",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "mouse"
+}

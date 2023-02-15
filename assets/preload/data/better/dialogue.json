@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "(In the back alley, behind an animation studio)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "4",
+			"text": "that was close..",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.03
+		},
+		{
+			"expression": "1",
+			"text": "look .. here again",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "3",
+			"text": "the last time we were here nothing good hap-",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "10",
+			"text": "!!!!",
+			"boxState": "angry",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "4",
+			"text": "\rdid you hear that?",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "7",
+			"text": "they were .. screams",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "can we ... go to see?",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "4",
+			"text": "i dont kn-",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05
+		},
+		{
+			"expression": "4",
+			"text": "sport!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "6",
+			"text": "go go go!!",
+			"boxState": "angry",
+			"portrait": "pico",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(they enter through the door ..)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "crying",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "3",
+			"text": "uh...hi?",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "!",
+			"boxState": "angry",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "o-oh hi! What do you guys bring here?",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "4",
+			"text": "\rdude..we hear everything..you don't have to pretend",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "3",
+			"text": "yeah..",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "talking1",
+			"text": "leave me alone..",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "talking2",
+			"text": "\ryou two shouldn't be here",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "6",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "3",
+			"text": "you don't plan to do anything?",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		},
+		{
+			"expression": "3",
+			"text": "\rlet me tell you something ..",
+			"boxState": "normal",
+			"portrait": "bfSOFT",
+			"speed": 0.05
+		}
+	]
+}

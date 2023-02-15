@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "Wow that was the best you really know how to sing.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"expression": "Happy",
+			"text": "Thanks i've been practicing.",
+			"boxState": "normal",
+			"portrait": "sadmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "Laugh",
+			"text": "Ho Ho.",
+			"boxState": "normal",
+			"portrait": "sadmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Say do you want to sing another song?",
+			"boxState": "normal",
+			"portrait": "sadmouse_neo",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Sure im up for another song.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_neo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadmouse_neo",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Well let the second song begin."
+		}
+	]
+}

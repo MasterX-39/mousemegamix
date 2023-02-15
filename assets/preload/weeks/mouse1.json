@@ -1,0 +1,39 @@
+{
+	"storyName": "chapter 1",
+	"hideFreeplay": false,
+	"weekBackground": "clubhouse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"welcome",
+			"mouse-mo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"repentance",
+			"mousea",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"mouse",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

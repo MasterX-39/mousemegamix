@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				20
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Os_danceLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				20
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Os_danceRight instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Os_Left instance"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Os_Down instance"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Os_Up instance"
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Os_Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruption/Oswald_Playerv2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "oswald",
+	"flip_x": true,
+	"healthbar_colors": [
+		176,
+		176,
+		176
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

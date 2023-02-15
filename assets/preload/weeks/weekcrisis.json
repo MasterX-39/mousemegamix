@@ -1,0 +1,40 @@
+{
+	"storyName": "Cognitive Crisis",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "crisis",
+	"weekBefore": "mouse3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Aware",
+			"mouse-crisis",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"Films End",
+			"mouse-crisis",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Crisis"
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FacelessSuicideMouse.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Faceless Down0000" x="0" y="0" width="1152" height="1068" frameX="-5" frameY="-6" frameWidth="1176" frameHeight="1080"/>
+	<SubTexture name="Faceless Down0001" x="1152" y="0" width="1142" height="1062" frameX="-8" frameY="-9" frameWidth="1176" frameHeight="1080"/>
+	<SubTexture name="Faceless Down0002" x="2294" y="0" width="1176" height="1080"/>
+	<SubTexture name="Faceless Idle0000" x="0" y="1080" width="892" height="802" frameX="-45" frameY="-37" frameWidth="972" frameHeight="910"/>
+	<SubTexture name="Faceless Idle0001" x="892" y="1080" width="953" height="883" frameX="-14" frameY="-14" frameWidth="972" frameHeight="910"/>
+	<SubTexture name="Faceless Idle0002" x="1845" y="1080" width="935" height="861" frameX="-25" frameY="-25" frameWidth="972" frameHeight="910"/>
+	<SubTexture name="Faceless Idle0003" x="2780" y="1080" width="972" height="910"/>
+	<SubTexture name="Faceless Idle0004" x="0" y="1990" width="972" height="910"/>
+	<SubTexture name="Faceless Idle0005" x="0" y="1990" width="972" height="910"/>
+	<SubTexture name="Faceless Idle0006" x="0" y="1990" width="972" height="910"/>
+	<SubTexture name="Faceless Left0000" x="972" y="1990" width="1086" height="1086"/>
+	<SubTexture name="Faceless Left0001" x="2058" y="1990" width="1016" height="1004" frameX="-17" frameY="-46" frameWidth="1086" frameHeight="1086"/>
+	<SubTexture name="Faceless Left0002" x="3074" y="1990" width="1001" height="1016" frameX="-12" frameY="-43" frameWidth="1086" frameHeight="1086"/>
+	<SubTexture name="Faceless Right0000" x="0" y="3076" width="1025" height="1017" frameX="-13" frameY="-13" frameWidth="1038" frameHeight="1035"/>
+	<SubTexture name="Faceless Right0001" x="1025" y="3076" width="1027" height="1027" frameX="-4" frameY="-4" frameWidth="1038" frameHeight="1035"/>
+	<SubTexture name="Faceless Right0002" x="2052" y="3076" width="1035" height="1035" frameX="0" frameY="0" frameWidth="1038" frameHeight="1035"/>
+	<SubTexture name="Faceless Up0000" x="0" y="4111" width="1245" height="1010" frameX="-8" frameY="-6" frameWidth="1253" frameHeight="1016"/>
+	<SubTexture name="Faceless Up0001" x="1245" y="4111" width="1248" height="1009" frameX="0" frameY="0" frameWidth="1253" frameHeight="1016"/>
+	<SubTexture name="Faceless Up0002" x="2493" y="4111" width="1227" height="994" frameX="-1" frameY="-1" frameWidth="1253" frameHeight="1016"/>
+</TextureAtlas>

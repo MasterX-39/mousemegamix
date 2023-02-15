@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.20000000000002,
+		"stage": "darkStaticStage",
+		"player1": "oldbf",
+		"player2": "minnie",
+		"player3": null,
+		"events": [
+			[
+				12800,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Apologize"
+	}
+}

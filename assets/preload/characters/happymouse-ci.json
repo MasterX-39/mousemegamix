@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-90,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-360,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-420,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-420,
+				90
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-420,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/craziness/happymouse-ci",
+	"position": [
+		-690,
+		70
+	],
+	"healthicon": "happymouse-ci",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		370,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

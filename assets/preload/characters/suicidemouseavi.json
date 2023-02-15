@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				75
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Faceless Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				78
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Faceless Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				129
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Faceless Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				127
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Faceless Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Faceless Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				78
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Faceless Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Faceless Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Faceless Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Faceless Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Faceless Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thefinal/FacelessSuicideMouse",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "avi",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

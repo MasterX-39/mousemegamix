@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Mouse.png"><SubTexture name="idle0000" x="0" y="0" width="502" height="573" frameX="-360" frameY="-78" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "Old Timey Week",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ci",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bad-Thoughts",
+			"mouse-ci",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Suffering",
+			"mouse-ci",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Overjoy",
+			"happymouse-ci",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Hell-Sights",
+			"crazymouse",
+			[
+				126,
+				126,
+				126
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

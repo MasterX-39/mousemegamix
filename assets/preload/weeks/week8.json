@@ -1,0 +1,39 @@
+{
+	"storyName": "The Second Sights of Hell",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"monochrome",
+			"deadmouse",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"faceless",
+			"a",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "dead mouse"
+}

@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-190,
+		-140
+	],
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"loop_name": "P1.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P1.png",
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P2.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P2.png",
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P3.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P3.png",
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P4.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P4.png",
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P5.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P5.png",
+			"anim": "5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P6.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P6.png",
+			"anim": "6",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "P7.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "P7.png",
+			"anim": "7",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pico"
+}

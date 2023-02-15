@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "WHAT\"!?",
+			"boxState": "angry",
+			"portrait": "minnie",
+			"speed": 0.02
+		},
+		{
+			"speed": 0.02,
+			"portrait": "minnie",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I SHOULD HAVE WON THAT!"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf-old",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bu"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "minnie",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "SKILL ISSUE?! WHAT DO YOU EVEN MEAN BY THAT?!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "minnie",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ONE MORE! THIS ONE I'M GOING TO WIN IT!"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "bf-old",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "zzz"
+		}
+	]
+}

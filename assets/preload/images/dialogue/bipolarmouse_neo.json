@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		-90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sadmouse Idle0010",
+			"idle_name": "Sadmouse Idle0010"
+		},
+		{
+			"anim": "Talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sadmouse Left0007",
+			"idle_name": "Sadmouse Left0007"
+		},
+		{
+			"anim": "Talk2",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sadmouse Right0007",
+			"idle_name": "Sadmouse Right0007"
+		}
+	],
+	"image": "bipolarmouse_neo"
+}

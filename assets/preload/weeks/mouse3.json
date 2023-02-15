@@ -1,0 +1,48 @@
+{
+	"storyName": "chapter 3",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"suicide",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"misery",
+			"suicide-mo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Suicide Mouse",
+			"suicide3",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"insanity psychosis",
+			"suicide4",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
