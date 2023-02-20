@@ -59,7 +59,7 @@ jobs:
           haxelib install flixel-addons 2.10.0 --quiet
           haxelib install hscript --quiet
           haxelib git faxe https://github.com/uhrobots/faxe --quiet
-          haxelib git polymod https://github.com/MasterEric/polymod.git --quiet
+          haxelib git polymod https://github.com/larsiusprime/polymod.git --quiet
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc --quiet
           haxelib git extension-webview https://github.com/Daninnocent/extension-webview.git --quiet
           haxelib git linc_luajit https://github.com/Daninnocent/linc_luajit.git --quiet
